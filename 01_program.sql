@@ -1,0 +1,1 @@
+select * from RAM.HR.CUSTOMER;
